@@ -1,5 +1,7 @@
-package com.countryapi.countryapi;
+package com.countryapi.countryapi.controllers;
 
+import com.countryapi.countryapi.models.Country;
+import com.countryapi.countryapi.services.CountryService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

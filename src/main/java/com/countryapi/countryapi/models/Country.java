@@ -1,4 +1,4 @@
-package com.countryapi.countryapi;
+package com.countryapi.countryapi.models;
 
 import lombok.Data;
 

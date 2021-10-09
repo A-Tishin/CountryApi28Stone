@@ -1,5 +1,6 @@
 package com.countryapi.countryapi;
 
+import com.countryapi.countryapi.services.CountryService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.springframework.beans.factory.annotation.Autowired;
